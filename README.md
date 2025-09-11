@@ -2,6 +2,7 @@
 
 This project demonstrates **eye-gaze based control** using Python, OpenCV, and dlib.  
 It detects the user's face, tracks eye movement, and can be extended to control applications using just the eyes — making it useful for **assistive technologies** and **hands-free interaction**.
+This is a Prototype and Understanding model of Eye Control Project.
 
 ---
 
