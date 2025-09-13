@@ -65,3 +65,7 @@ Download this file from dlib’s website
 .
 
 Extract the file and place it inside your project folder.
+ 
+Debug main.py and eye-tracker.py
+
+setup.py to optimize PYautoGUI
